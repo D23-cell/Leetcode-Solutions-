@@ -13,10 +13,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
