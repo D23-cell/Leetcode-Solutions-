@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0263-ugly-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2119-a-number-after-a-double-reversal) |
 ## Dynamic Programming
 |  |
