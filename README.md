@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0010-regular-expression-matching) |
 | [0657-robot-return-to-origin](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0657-robot-return-to-origin) |
 ## Simulation
 |  |
@@ -32,9 +33,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
