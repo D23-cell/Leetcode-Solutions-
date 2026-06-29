@@ -17,6 +17,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0041-first-missing-positive) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0041-first-missing-positive) |
 ## Sliding Window
 |  |
 | ------- |
