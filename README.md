@@ -15,6 +15,7 @@
 | [0115-distinct-subsequences](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0140-word-break-ii) |
 | [0657-robot-return-to-origin](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0657-robot-return-to-origin) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
@@ -33,6 +34,7 @@
 | [0085-maximal-rectangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0140-word-break-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -65,10 +67,12 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0140-word-break-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +101,7 @@
 | [0041-first-missing-positive](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0140-word-break-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
@@ -116,6 +121,7 @@
 | [0037-sudoku-solver](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0052-n-queens-ii) |
+| [0140-word-break-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0140-word-break-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -157,4 +163,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0127-word-ladder) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
