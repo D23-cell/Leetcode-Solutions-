@@ -43,6 +43,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0220-contains-duplicate-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -123,6 +124,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0076-minimum-window-substring) |
+| [0220-contains-duplicate-iii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0220-contains-duplicate-iii) |
 ## Stack
 |  |
 | ------- |
@@ -219,8 +221,14 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0220-contains-duplicate-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
