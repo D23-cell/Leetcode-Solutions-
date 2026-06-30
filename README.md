@@ -36,11 +36,13 @@
 | [0135-candy](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0149-max-points-on-a-line) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
