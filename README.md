@@ -92,6 +92,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0052-n-queens-ii) |
 ## Matrix
 |  |
 | ------- |
