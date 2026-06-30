@@ -51,12 +51,14 @@
 | [0220-contains-duplicate-iii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -64,6 +66,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,10 +241,12 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sweep Line
 |  |
 | ------- |
@@ -256,6 +262,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0220-contains-duplicate-iii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Bucket Sort
 |  |
 | ------- |
