@@ -18,6 +18,7 @@
 | [0140-word-break-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0224-basic-calculator) |
 | [0657-robot-return-to-origin](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0657-robot-return-to-origin) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
@@ -63,6 +64,7 @@
 | [0060-permutation-sequence](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0263-ugly-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2119-a-number-after-a-double-reversal) |
 ## Dynamic Programming
@@ -94,6 +96,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 | [0042-trapping-rain-water](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0224-basic-calculator) |
 ## Backtracking
 |  |
 | ------- |
