@@ -17,6 +17,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0214-shortest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0657-robot-return-to-origin) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0214-shortest-palindrome) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -190,4 +192,12 @@
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0185-department-top-three-salaries) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
