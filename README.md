@@ -26,6 +26,7 @@
 | [0657-robot-return-to-origin](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0657-robot-return-to-origin) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Simulation
 |  |
 | ------- |
