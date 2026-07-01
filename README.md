@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0030-substring-with-concatenation-of-all-words) |
